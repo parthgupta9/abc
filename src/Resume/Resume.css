@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: white, #f7f7f7;
+}
+
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  height: 200px;
+  border: 5px dashed rgb(117, 112, 112);
+  padding: 2rem;
+}
+
+.active {
+  background-color: #5f5959;
+}
+ */
